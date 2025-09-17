@@ -534,6 +534,21 @@ class: text-center
 # Thank You
 
 <div class="pt-12">
+  <div class="text-5xl mb-4">Data Structures in R</div>
+  <p class="text-3xl mb-10 opacity-55">By Joel Paul</p>
+  <p class="opacity-75 pt-8">Master these data structures for effective data analysis</p>
+</div>
+
+
+
+---
+layout: center
+class: text-center
+---
+
+# Thank You
+
+<div class="pt-12">
   <div class="text-6xl mb-4">Data Structures in R</div>
   <h2 class="text-2xl mb-4" opacity-55>By Joel Paul</h2>
 </div>
