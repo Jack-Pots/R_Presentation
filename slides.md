@@ -534,13 +534,13 @@ class: text-center
 # Thank You
 
 <div class="pt-12">
-  <div class="text-6xl mb-8">✈️🏢🏢</div>
-  <h2 class="text-2xl mb-4">Ciao Niggggas</h2>
-  <p class="opacity-75">Master these data structures for effective data analysis</p>
+  <div class="text-6xl mb-4">Data Structures in R</div>
+  <h2 class="text-2xl mb-4" opacity-55>By Joel Paul</h2>
 </div>
 
 <div class="pt-8">
   <span class="text-sm opacity-50">
-    Press ESC to exit presentation mode
+    No Question's Please 😭
   </span>
+  <p class="opacity-75">Master these data structures for effective data analysis or TO FORGET IT LATER</p>
 </div>
