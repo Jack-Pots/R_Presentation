@@ -30,7 +30,7 @@ layout: default
 
 # Overview
 
-<div class="grid grid-cols-3 gap-8 pt-8">
+<div class="grid grid-cols-3 gap-8 pt-30">
 
 <div class="text-center">
   <div class="text-4xl mb-4">📊</div>
@@ -153,7 +153,7 @@ c(1, 2, 3) + c(4, 5, 6)
 
 </div>
 
-<div class="mt-6 p-3 bg-blue-50 rounded">
+<div class="mt-6 p-3 bg-blue rounded">
 <strong>Key Point:</strong> All elements must be the same type
 </div>
 
@@ -267,7 +267,7 @@ student["name"]
 
 </div>
 
-<div class="mt-6 p-3 bg-green-50 rounded">
+<div class="mt-6 p-3 bg-green rounded">
 <strong>Key Point:</strong> Can contain any data type, including other lists
 </div>
 
@@ -509,17 +509,17 @@ class: text-center
 
 <div class="grid grid-cols-1 gap-6 pt-8 max-w-4xl mx-auto">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue rounded-lg">
 <h3 class="text-lg font-semibold mb-2">Choose the Right Structure</h3>
 <p class="text-sm">Vectors for simple arrays, Lists for complex nested data, Data Frames for datasets</p>
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green rounded-lg">
 <h3 class="text-lg font-semibold mb-2">Consistent Naming</h3>
 <p class="text-sm">Use clear, descriptive names for columns and list elements</p>
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple rounded-lg">
 <h3 class="text-lg font-semibold mb-2">Type Awareness</h3>
 <p class="text-sm">Understand data types to avoid unexpected coercion</p>
 </div>
@@ -534,8 +534,8 @@ class: text-center
 # Thank You
 
 <div class="pt-12">
-  <div class="text-6xl mb-8">📊</div>
-  <h2 class="text-2xl mb-4">Happy Coding with R!</h2>
+  <div class="text-6xl mb-8">✈️🏢🏢</div>
+  <h2 class="text-2xl mb-4">Ciao Niggggas</h2>
   <p class="opacity-75">Master these data structures for effective data analysis</p>
 </div>
 
